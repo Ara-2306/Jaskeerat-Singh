@@ -1,6 +1,6 @@
 body{
     font-family: 'Nabla', sans-serif;
-    font-size: 48 px;
+    font-size: 48px;
     color:#39FF14;
     background-color: #121212;
     padding: 20px;
@@ -31,7 +31,7 @@ body{
      background-color: #121212;
      padding: 20px;
      border: 2px solid #39FF14;
-     border-radius: -10px;
+     border-radius: 0px;
 }
 #entry_screen{
     height:100vh;
